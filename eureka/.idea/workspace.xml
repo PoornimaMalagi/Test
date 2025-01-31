@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c984d35-95a1-4bb6-a021-d01e3c3e0c4d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../details/src/main/java/com/mav/details/DetailsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../details/src/main/java/com/mav/details/DetailsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../details/src/main/java/com/mav/details/controller/DetailsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../details/src/main/java/com/mav/details/controller/DetailsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../details/src/main/java/com/mav/details/dto/Details.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PoornimaMalagi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PoornimaMalagi/GCP_Kubernetes.git",
+    "accountId": "b0a4eac7-0d49-4668-a8d4-bcb96d7918ba"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2s1ax0lpjPsGYXQj0pkxqyQHhTh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EurekaApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c984d35-95a1-4bb6-a021-d01e3c3e0c4d" name="Changes" comment="" />
+      <created>1737625777987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737625777987</updated>
+    </task>
+    <servers />
+  </component>
+</project>
