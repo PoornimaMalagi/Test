@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: eureka
+  namespace: default
+  labels:
+    app: eureka
+spec:
+  containers:
+  - name: latest
+    image: gcr.io/mavericsy-1732863904219/eureka:1.0
