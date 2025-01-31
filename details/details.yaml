@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+ name: details-deploy
+ labels:
+  app: details
+spec:
+ replicas: 2
+ selector:
+  matchLabels:
+   app: details
+ template:
+  metadata:
+   labels:
+    app: details
+  spec:
+   containers:
+   - name: details-container
+     image: gcr.io/mavericsy-1732863904219/details:1.0
+     ports:
+     - containerPort: 8084
