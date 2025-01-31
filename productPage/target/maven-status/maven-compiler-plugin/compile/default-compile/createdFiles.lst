@@ -1,0 +1,8 @@
+com\mav\productPage\service\client\ReviewFeignClient.class
+com\mav\productPage\service\ProductService.class
+com\mav\productPage\pojo\Details.class
+com\mav\productPage\controller\ProductController.class
+com\mav\productPage\pojo\Product.class
+com\mav\productPage\pojo\Reviews.class
+com\mav\productPage\ProductPageApplication.class
+com\mav\productPage\service\client\DetailsFeignClient.class

@@ -1,0 +1,6 @@
+com\mav\reviews\ReviewsApplication.class
+com\mav\reviews\dto\Ratings.class
+com\mav\reviews\dto\Reviews.class
+com\mav\reviews\service\ReviewsService.class
+com\mav\reviews\controller\ReviewsController.class
+com\mav\reviews\service\client\RatingsFeignClient.class

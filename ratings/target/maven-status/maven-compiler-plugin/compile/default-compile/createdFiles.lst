@@ -1,0 +1,3 @@
+com\mav\ratings\controller\RatingsController.class
+com\mav\ratings\dto\Ratings.class
+com\mav\ratings\RatingApplication.class
