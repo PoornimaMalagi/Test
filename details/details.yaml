@@ -15,7 +15,10 @@ spec:
     app: details
   spec:
    containers:
-   - name: details-container
-     image: gcr.io/mavericsy-1732863904219/details:1.0
+   - name: detailsone-container
+     image: nginx:stable-alpine
      ports:
-     - containerPort: 8084
+     - containerPort: 80
+   - name: detailsone-container
+     image: alpine:latest
+     
